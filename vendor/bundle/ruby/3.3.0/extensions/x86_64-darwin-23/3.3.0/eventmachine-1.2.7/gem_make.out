@@ -1,0 +1,20 @@
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/local/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-y3nw3u sitelibdir\=./.gem.20240721-14509-y3nw3u clean
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-y3nw3u sitelibdir\=./.gem.20240721-14509-y3nw3u
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/3.3.4/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (13.3)
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-y3nw3u sitelibdir\=./.gem.20240721-14509-y3nw3u install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20240721-14509-y3nw3u
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-y3nw3u sitelibdir\=./.gem.20240721-14509-y3nw3u clean

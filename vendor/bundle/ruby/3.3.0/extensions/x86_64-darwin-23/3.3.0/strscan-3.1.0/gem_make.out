@@ -1,0 +1,21 @@
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+/usr/local/opt/ruby/bin/ruby extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+checking for rb_reg_onig_match() in ruby.h... yes
+creating Makefile
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-l7rf9a sitelibdir\=./.gem.20240721-14509-l7rf9a clean
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-l7rf9a sitelibdir\=./.gem.20240721-14509-l7rf9a
+compiling strscan.c
+linking shared-object strscan.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/3.3.4/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (13.3)
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-l7rf9a sitelibdir\=./.gem.20240721-14509-l7rf9a install
+/usr/bin/install -c -m 0755 strscan.bundle ./.gem.20240721-14509-l7rf9a
+
+current directory: /Users/xinxin/Library/CloudStorage/SynologyDrive-macair/SynologyDrive/2 Academic_technique/Github/luckxin9283.github.io/vendor/bundle/ruby/3.3.0/gems/strscan-3.1.0/ext/strscan
+make DESTDIR\= sitearchdir\=./.gem.20240721-14509-l7rf9a sitelibdir\=./.gem.20240721-14509-l7rf9a clean
